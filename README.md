@@ -4,6 +4,21 @@
 In modern mining operations, efficient recovery of valuable metals like **gold, silver, and lead** is essential to maximizing profitability and reducing waste.  
 This project simulates a **real-world production pipeline** where we model and evaluate gold recovery at different stages of mineral processing using **machine learning**, while navigating real-world challenges like **missing data, feature leakage, and skewed distributions**.
 
+un prototipo de un modelo de machine learning para Zyfra. La empresa desarrolla soluciones de eficiencia para la industria pesada.
+
+El modelo debe predecir la cantidad de oro extraído del mineral de oro. Dispones de los datos de extracción y purificación.
+
+El modelo ayudará a optimizar la producción y a eliminar los parámetros no rentables.
+
+Tendrás que:
+
+Preparar los datos.
+Realizar el análisis de datos.
+Desarrollar un modelo y entrenarlo.
+Para completar el proyecto, puedes utilizar la documentación de pandas, matplotlib y sklearn.
+
+La siguiente lección trata sobre el proceso de depuración del mineral. Te tocará seleccionar la información importante para el desarrollo del modelo. 
+
 ---
 
 ## 🎯 Business Objective
